@@ -1,0 +1,3 @@
+- El proyecto continia errores de compilación.
+- El proyecto guardado (anterior a 5.0) no coincide con el editor iniciado (2022.3.48f1).
+- 
